@@ -1,0 +1,4 @@
+Shan|Shan123|Monday,Wednesday|7.00-10.00,20.00-22.00
+Priya|Priya123|Saturday,Sunday|06.00-10.00,17.00-19.00
+Kasun|Kasun|Monday|1.00-3.00
+Kavinda|Kavinda@123|Sunday|12.00-1.00,17.30-20.00
